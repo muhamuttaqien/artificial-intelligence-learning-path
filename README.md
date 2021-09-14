@@ -9,7 +9,7 @@ This learning path is intended for everyone who wants to learn Artificial Intell
 ## Basic Python
 Getting Started: <a href="https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/" target="_blank">Why Python?</a>
 
-Learning Resource: <a href="https://www.python.org/" target="_blank">Python Docs</a>
+Learning Resource: <a href="https://www.python.org/" target="_blank">Python Docs</a> | <a href="https://realpython.com/best-python-books/" target="_blank">Python Books</a>
 
 1. Python Introduction
 2. Python Flow Control
