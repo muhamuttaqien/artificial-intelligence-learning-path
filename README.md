@@ -68,6 +68,9 @@ Popular Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a hr
 6. Performance Improvement
 
 ## 5a. Computer Vision
+
+A field of Artificial Intelligence (AI) that teach machines or computers to see the world around you as good as human.
+
 1. Computer Vision Fundamentals
 2. CNN Forward Propagation
 3. CNN Backpropagation
@@ -77,6 +80,9 @@ Popular Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a hr
 7. Transfer Learning & Overfitting
 
 ## 5b. Natural Language Processing
+
+A field of of Artificial Intelligence (AI) that teach machines or computers to understand natural language and speech as good as human.
+
 1. NLP Fundamentals
 2. Text Processing
 3. Word Embeddings
@@ -86,6 +92,9 @@ Popular Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a hr
 7. Text Augmentation
 
 ## 5c. Deep Reinforcement Learning
+
+A field of of Artificial Intelligence (AI) that teach machines or computers to make good decision making as good as, or even beyond, human.
+
 1. Reinforcement Learning (RL) Fundamentals
 2. Dynamic Programming
 3. Monte Carlo
