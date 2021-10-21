@@ -10,7 +10,7 @@ This learning path is intended for everyone eager to learn Artificial Intelligen
 
 ## 1. Basic Python
 
-The first step to start learning machine learning is to pick up a programming language and we recommend Python since it's so popular, easy to learn and future-ready.
+The first step to start learning AI or Machine Learning is to pick up a programming language and we recommend Python since it's so popular, easy to learn and future-ready.
 
 Getting Started: <a href="https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/" target="_blank">Why Python?</a>
 
@@ -26,7 +26,7 @@ Official Docs: <a href="https://www.python.org/" target="_blank">Python Docs</a>
 
 ## 2. Intermediate Python
 
-Before moving on to AI or Machine learning stuff, you should at least get familiar with top 3 most popular python libraries for it.
+Before moving on to AI or Machine Learning stuff, you should at least get familiar with top 3 most popular python libraries for it.
 
 Getting Started: <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank">What is NumPy?</a>
 
