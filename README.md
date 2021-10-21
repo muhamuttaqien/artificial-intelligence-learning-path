@@ -33,6 +33,8 @@ Official Docs: <a href="https://numpy.org/" target="_blank">NumPy Docs</a> | <a 
 
 Getting Started: <a href="https://www.ibm.com/cloud/learn/machine-learning" target="_blank">What is Machine Learning?</a>
 
+Libraries: <a href="https://scikit-learn.org/stable/" target="_blank">Scikit Learn</a> | <a href="https://scikit-image.org/" target="_blank">Scikit Image</a>
+
 1. Data Loading
 2. Data Visualization
 3. Data Preprocessing
