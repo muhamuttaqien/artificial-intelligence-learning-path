@@ -75,7 +75,7 @@ Popular Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a hr
 7. Text Augmentation
 
 ## 5c. Deep Reinforcement Learning
-1. Reinforcement Learning Fundamentals
+1. Reinforcement Learning (RL) Fundamentals
 2. Dynamic Programming
 3. Monte Carlo
 4. Temporal Difference
