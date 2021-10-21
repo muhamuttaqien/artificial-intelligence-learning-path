@@ -40,8 +40,8 @@ Popular Libraries: <a href="https://scikit-learn.org/stable/" target="_blank">Sc
 3. Data Preprocessing
 4. ML Algorithm: Linear & Logistic Regression
 5. ML Algorithm: Support Vector Machine
-6. ML Algorithm: Random Forest
-7. ML Algorithm: Clustering
+6. ML Algorithm: Decision Tree & Random Forest
+7. ML Algorithm: Clustering (KMeans, Hierarchical Clustering, DBScan)
 
 ## 4. Deep Learning
 
