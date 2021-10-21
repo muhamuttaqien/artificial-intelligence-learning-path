@@ -4,7 +4,7 @@ Your learning path in Artificial Intelligence, including Machine Learning and De
 
 Hi, I'm Angga who co-founded <a href="http://aiforindonesia.org/" target="_blank">Indonesia AI</a>. 
 
-This learning path is intended for everyone who wants to learn Artificial Intelligence and build a career in this related field especially AI Engineer, Machine Learning Engineer, CV, NLP Engineer or even Data Scientist. In this guide, there is a corresponding link in some section that will help you to learn (at least to start) in each chapter.
+This learning path is intended for everyone eager to learn Artificial Intelligence and build a career in this related field especially AI Engineer, Machine Learning Engineer, CV, NLP Engineer or even Data Scientist. In this guide, there is a corresponding link in some section that will help you to learn (at least to start) in each chapter.
 
 ## 1. Basic Python
 Getting Started: <a href="https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/" target="_blank">Why Python?</a>
@@ -30,6 +30,9 @@ Official Docs: <a href="https://numpy.org/" target="_blank">NumPy Docs</a> | <a 
 3. Python Library Matplotlib
 
 ## 3. Machine Learning
+
+Getting Started: <a href="https://www.ibm.com/cloud/learn/machine-learning" target="_blank">What is Machine Learning?</a>
+
 1. Data Loading
 2. Data Visualization
 3. Data Preprocessing
@@ -39,6 +42,9 @@ Official Docs: <a href="https://numpy.org/" target="_blank">NumPy Docs</a> | <a 
 7. ML Algorithm: Clustering
 
 ## 4. Deep Learning
+
+Getting Started: <a href="https://www.ibm.com/cloud/learn/deep-learning" target="_blank">What is Deep Learning?</a>
+
 1. Deep Learning Fundamentals
 2. Feedforward in Deep Learning
 3. Backpropagation in Deep Learning
