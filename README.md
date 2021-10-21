@@ -54,7 +54,7 @@ Popular Libraries: <a href="https://scikit-learn.org/stable/" target="_blank">Sc
 
 ## 4. Deep Learning
 
-After you get the idea of how those Machine learning algorithms work from within, you must be ready to look into the most powerful ML algorithm nowadays, which is Deep Learning.
+After you get the idea of how these Machine learning algorithms work from within, you must be ready to look into the most powerful ML algorithm nowadays, which is Deep Learning.
 
 Getting Started: <a href="https://www.ibm.com/cloud/learn/deep-learning" target="_blank">What is Deep Learning?</a>
 
