@@ -26,7 +26,7 @@ Official Docs: <a href="https://www.python.org/" target="_blank">Python Docs</a>
 
 ## 2. Intermediate Python
 
-Before moving on to AI or Machine learning stuff, you should get familiar with some popular python libraries for it.
+Before moving on to AI or Machine learning stuff, you should at least get familiar with top 3 most popular python libraries for it.
 
 Getting Started: <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank">What is NumPy?</a>
 
