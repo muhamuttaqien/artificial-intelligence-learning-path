@@ -9,7 +9,7 @@ This learning path is intended for everyone who wants to learn Artificial Intell
 ## Basic Python
 Getting Started: <a href="https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/" target="_blank">Why Python?</a>
 
-Learning Resource: <a href="https://www.python.org/" target="_blank">Python Docs</a> | <a href="https://realpython.com/best-python-books/" target="_blank">Python Books</a>
+Official Docs: <a href="https://www.python.org/" target="_blank">Python Docs</a> | <a href="https://realpython.com/best-python-books/" target="_blank">Python Books</a>
 
 1. Python Introduction
 2. Python Flow Control
@@ -20,6 +20,11 @@ Learning Resource: <a href="https://www.python.org/" target="_blank">Python Docs
 7. Python Package Management (PIP)
 
 ## Intermediate Python
+
+Getting Started: <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank">What is NumPy?</a>
+
+Official Docs: <a href="https://numpy.org/" target="_blank">NumPy Docs</a> | <a href="https://pandas.pydata.org/" target="_blank">Pandas Docs</a> | <a href="https://matplotlib.org/" target="_blank">Matplotlib Docs</a>
+
 1. Python Library Numpy
 2. Python Library Pandas
 3. Python Library Matplotlib
