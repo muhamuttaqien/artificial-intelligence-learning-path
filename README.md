@@ -38,7 +38,7 @@ Popular Libraries: <a href="https://numpy.org/" target="_blank">NumPy</a> | <a h
 
 ## 3. Machine Learning
 
-Once you have some idea of using Numpy, Pandas and Matplotlib after learning Python, you should start looking into how these machine learning algorithms work. 
+Once you have some idea of using Numpy, Pandas and Matplotlib after learning Python, you should start looking into how these machine learning (ML) algorithms work. 
 
 Getting Started: <a href="https://www.ibm.com/cloud/learn/machine-learning" target="_blank">What is Machine Learning?</a>
 
