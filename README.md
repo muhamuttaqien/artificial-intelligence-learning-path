@@ -23,7 +23,7 @@ Official Docs: <a href="https://www.python.org/" target="_blank">Python Docs</a>
 
 Getting Started: <a href="https://en.wikipedia.org/wiki/NumPy" target="_blank">What is NumPy?</a>
 
-Official Docs: <a href="https://numpy.org/" target="_blank">NumPy Docs</a> | <a href="https://pandas.pydata.org/" target="_blank">Pandas Docs</a> | <a href="https://matplotlib.org/" target="_blank">Matplotlib Docs</a>
+Popular Libraries: <a href="https://numpy.org/" target="_blank">NumPy</a> | <a href="https://pandas.pydata.org/" target="_blank">Pandas</a> | <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
 
 1. Python Library Numpy
 2. Python Library Pandas
@@ -33,7 +33,7 @@ Official Docs: <a href="https://numpy.org/" target="_blank">NumPy Docs</a> | <a 
 
 Getting Started: <a href="https://www.ibm.com/cloud/learn/machine-learning" target="_blank">What is Machine Learning?</a>
 
-Machine Learning Libraries: <a href="https://scikit-learn.org/stable/" target="_blank">Scikit Learn</a> | <a href="https://scikit-image.org/" target="_blank">Scikit Image</a>
+Popular Libraries: <a href="https://scikit-learn.org/stable/" target="_blank">Scikit Learn</a> | <a href="https://scikit-image.org/" target="_blank">Scikit Image</a>
 
 1. Data Loading
 2. Data Visualization
@@ -47,7 +47,7 @@ Machine Learning Libraries: <a href="https://scikit-learn.org/stable/" target="_
 
 Getting Started: <a href="https://www.ibm.com/cloud/learn/deep-learning" target="_blank">What is Deep Learning?</a>
 
-Deep Learning Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a href="https://www.tensorflow.org/" target="_blank">Tensorflow</a> | <a href="https://pytorch.org/" target="_blank">Pytorch</a>
+Popular Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a href="https://www.tensorflow.org/" target="_blank">Tensorflow</a> | <a href="https://pytorch.org/" target="_blank">Pytorch</a>
 
 1. Deep Learning Fundamentals
 2. Feedforward in Deep Learning
