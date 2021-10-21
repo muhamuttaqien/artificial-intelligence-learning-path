@@ -10,7 +10,7 @@ This learning path is intended for everyone eager to learn Artificial Intelligen
 
 ## 1. Basic Python
 
-The first step to start learning machine learning is to pick up a programming language. We recommend Python since it's so popular, easy to learn and future-ready.
+The first step to start learning machine learning is to pick up a programming language and we recommend Python since it's so popular, easy to learn and future-ready.
 
 Getting Started: <a href="https://www.upgrad.com/blog/reasons-why-python-popular-with-developers/" target="_blank">Why Python?</a>
 
