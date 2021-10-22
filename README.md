@@ -64,7 +64,7 @@ Popular Libraries: <a href="https://keras.io/" target="_blank">Keras</a> | <a hr
 2. Feedforward in Deep Learning
 3. Backpropagation in Deep Learning
 4. Underfitting and Overfitting
-5. Performance Evaluation
+5. Performance Evaluation (Accuracy, F1 Score, Confusion Matrix)
 6. Performance Improvement
 
 ## 5a. Computer Vision
