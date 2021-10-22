@@ -6,7 +6,7 @@ Hi, I'm Angga who co-founded <a href="http://aiforindonesia.org/community" targe
 
 This learning path is intended for everyone eager to learn Artificial Intelligence and build a career in this related field especially AI Engineer, Machine Learning Engineer, CV, NLP Engineer or even Data Scientist. In this guide, there is a corresponding link in some section that will help you to learn (at least to start) in each chapter.
 
-![](./ai-learning-path.jpeg=100x100)
+![](./ai-learning-path.jpeg|width=100)
 
 ## 1. Basic Python
 
